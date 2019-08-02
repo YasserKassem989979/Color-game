@@ -1,0 +1,25 @@
+body{
+font-size: 10px;
+padding: 1.5rem;
+}
+
+.container{
+    max-width: 700px;
+    margin: 0 auto;
+}
+.square{
+    width:30%;
+    margin:1.66%;
+    padding-top:30%;
+    background-color: brown;
+    float: left;
+    box-shadow: 0 1rem 2rem rgba(0, 0, 0, 0.2);
+    border-radius: 10px;
+}
+
+.heading{
+
+font-size: 1.5rem;
+text-align: center;
+
+}
